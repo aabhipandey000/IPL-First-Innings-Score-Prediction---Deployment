@@ -11,5 +11,7 @@ The Code is written in Python 3.7 .If you are using a lower version of Python yo
 
 ## Deployment on Heroku
  
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.Our next step would be to follow the instruction given on Heroku Documentation to deploy a web app.
+
+## Directory Tree
 
