@@ -10,10 +10,19 @@ Project link-https://iplfirstinningscore.herokuapp.com/
 
 The Code is written in Python 3.7 .If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory:
 
+```bash
+pip install -r requirements.txt
+```
+
+
 
 ## Deployment on Heroku
  
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.Our next step would be to follow the instruction given on Heroku Documentation to deploy a web app.
+
+[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+
+
 
 ## Directory Tree
 
