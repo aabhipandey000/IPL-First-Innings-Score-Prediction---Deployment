@@ -8,3 +8,8 @@ This is a machine learning project .It can be used for predicting the first inni
 
 The Code is written in Python 3.7 .If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory:
 
+
+## Deployment on Heroku
+ 
+Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+
